@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "topological_sort", "topological_sort\topological_sort.vcxproj", "{F3E6CDDA-8B64-4310-BF58-69915B649F83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E6CDDA-8B64-4310-BF58-69915B649F83}.Release|x64.ActiveCfg = Release|x64
+		{F3E6CDDA-8B64-4310-BF58-69915B649F83}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C62D6845-4BD1-407C-8CCC-C23ED47E1ACB}
+	EndGlobalSection
+EndGlobal
